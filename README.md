@@ -71,3 +71,8 @@ Diamond characteristics dataset containing:
 ## Author
 
 Gaurav Wagh
+
+## Dashboard Preview
+
+![Dashboard Overview](dashboard_overview.png)
+
